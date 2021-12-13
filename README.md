@@ -1,5 +1,4 @@
-# MarsRover
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/eryozkn/MarsRoverConsole)
+# Mars Rover
 ![GitHub issues](https://img.shields.io/github/issues/eryozkn/MarsRoverConsole)
 
 Mars Rover problem solution in C# .NET Core 3.1.
